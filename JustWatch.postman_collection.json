@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "JustWatch",
+		"_postman_id": "2e2eb55b-8ee4-99ca-7ae2-a1f6f85a43f2",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search by name",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Providers List",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

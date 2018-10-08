@@ -1,0 +1,19 @@
+Imdb Rating API:
+
+https://www.imdb.com/plugins
+
+Working request:
+
+https://p.media-imdb.com/static-content/documents/v1/title/tt0068646/ratings%3Fjsonp=imdb.rating.run:imdb.api.title.ratings/data.json?u=ur27202551&s=p4
+https://p.media-imdb.com/static-content/documents/v1/title/tt0068646/ratings%3Fjsonp=imdb.rating.run:imdb.api.title.ratings/data.json?u=ur27202551
+
+https://p.media-imdb.com/static-content/documents/v1/title/{{IMDB-ID}}/ratings%3Fjsonp=imdb.rating.run:imdb.api.title.ratings/data.json?u={{USER-ID}}
+
+
+
+Example response:
+
+imdb.rating.run({"@meta":{"operation":"TitleRatings","requestId":"64351180-8156-11e8-9a16-39f11195c73a","serviceTimeMs":8.00694},"resource":{"@type":"imdb.api.title.ratings","id":"/title/tt0068646/","title":"The Godfather","titleType":"movie","year":1972,"bottomRank":20655,"canRate":true,"rating":9.2,"ratingCount":1347476,"topRank":2}})
+
+
+CHANGE USER!!

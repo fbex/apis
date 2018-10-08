@@ -1,0 +1,38 @@
+JustWatchIt API:
+https://github.com/dawoudt/JustWatchAPI
+https://www.justwatch.com/de
+
+
+Search:
+https://api.justwatch.com/titles/de_DE/popular
+
+POST:
+{
+			"content_types":null,
+			"presentation_types":null,
+			"providers":["nfx", "amp", "sko"],
+			"genres":null,
+			"languages":null,
+			"release_year_from":null,
+			"release_year_until":null,
+			"monetization_types":["flatrate"],
+			"min_price":null,
+			"max_price":null,
+			"scoring_filter_types":null,
+			"cinema_release":null,
+			"page_size": 1,
+			"query":"forrest gump"
+}
+
+
+
+
+Alternativen:
+https://www.guidebox.com/
+-> wohl nicht deutsche Anbieter
+
+
+Uebersicht:
+https://gadgets.ndtv.com/entertainment/features/search-netflix-amazon-prime-video-hotstar-together-india-us-1773320
+https://www.pc-magazin.de/ratgeber/wer-streamt-was-beste-streaming-suchmaschine-netflix-amazon-itunes-2917616.html
+
